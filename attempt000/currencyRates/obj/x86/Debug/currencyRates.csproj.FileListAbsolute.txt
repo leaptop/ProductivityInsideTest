@@ -43,3 +43,9 @@ C:\Users\stepa\repos\ProductivityInsideTest\attempt000\currencyRates\obj\x86\Deb
 C:\Users\stepa\repos\ProductivityInsideTest\attempt000\currencyRates\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\stepa\repos\ProductivityInsideTest\attempt000\currencyRates\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\stepa\repos\ProductivityInsideTest\attempt000\currencyRates\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424563200000000.json
+C:\Users\stepa\repos\ProductivityInsideTest\attempt000\currencyRates\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stepa\repos\ProductivityInsideTest\attempt000\currencyRates\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\stepa\repos\ProductivityInsideTest\attempt000\currencyRates\bin\x86\Debug\System.Text.Encodings.Web.dll
+C:\Users\stepa\repos\ProductivityInsideTest\attempt000\currencyRates\bin\x86\Debug\System.Text.Json.dll
+C:\Users\stepa\repos\ProductivityInsideTest\attempt000\currencyRates\obj\x86\Debug\FxResources.System.Text.Encodings.Web.SR.resw
+C:\Users\stepa\repos\ProductivityInsideTest\attempt000\currencyRates\obj\x86\Debug\FxResources.System.Text.Json.SR.resw

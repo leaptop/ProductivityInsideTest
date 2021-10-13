@@ -30,17 +30,33 @@
     <AppXManifest Include="C:\Users\stepa\repos\ProductivityInsideTest\attempt000\currencyRates\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-10-13T09:55:16.372</Modified>
+      <Modified>2021-10-13T19:26:02.807</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\stepa\repos\ProductivityInsideTest\attempt000\currencyRates\bin\x86\Debug\currencyRates.exe">
       <PackagePath>entrypoint\currencyRates.exe</PackagePath>
-      <Modified>2021-10-13T09:55:15.964</Modified>
+      <Modified>2021-10-13T19:26:02.420</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stepa\.nuget\packages\microsoft.bcl.asyncinterfaces\5.0.0\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll">
+      <PackagePath>Microsoft.Bcl.AsyncInterfaces.dll</PackagePath>
+      <Modified>2020-10-19T18:40:26.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
       <Modified>2021-02-04T18:15:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stepa\.nuget\packages\system.runtime.compilerservices.unsafe\5.0.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+      <Modified>2020-10-19T18:46:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stepa\.nuget\packages\system.text.encodings.web\5.0.1\lib\netstandard2.0\System.Text.Encodings.Web.dll">
+      <PackagePath>System.Text.Encodings.Web.dll</PackagePath>
+      <Modified>2021-02-16T21:53:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stepa\.nuget\packages\system.text.json\5.0.2\lib\netstandard2.0\System.Text.Json.dll">
+      <PackagePath>System.Text.Json.dll</PackagePath>
+      <Modified>2021-03-16T22:34:16.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
@@ -90,11 +106,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\stepa\repos\ProductivityInsideTest\attempt000\currencyRates\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-10-13T09:55:15.907</Modified>
+      <Modified>2021-10-13T19:25:15.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\stepa\repos\ProductivityInsideTest\attempt000\currencyRates\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-10-13T09:55:15.907</Modified>
+      <Modified>2021-10-13T19:25:15.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -102,11 +118,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\stepa\repos\ProductivityInsideTest\attempt000\currencyRates\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-10-13T08:44:30.413</Modified>
+      <Modified>2021-10-13T19:16:50.124</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\stepa\repos\ProductivityInsideTest\attempt000\currencyRates\bin\x86\Debug\Core\currencyRates.exe">
       <PackagePath>currencyRates.exe</PackagePath>
-      <Modified>2021-10-13T09:55:16.368</Modified>
+      <Modified>2021-10-13T19:26:02.801</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

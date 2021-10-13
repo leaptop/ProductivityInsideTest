@@ -9,13 +9,14 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid Margin="0,0,42,44">
-        <Button x:ConnectionId='2' Content="Изменить Валюту&#xD;&#xA;" Margin="265,459,0,0" VerticalAlignment="Top"                     />
-        <Button x:ConnectionId='3' Content="Изменить Валюту&#xA;" Margin="523,464,0,0" VerticalAlignment="Top"                       />
-        <TextBox HorizontalAlignment="Left" Margin="244,305,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="151"/>
-        <TextBox HorizontalAlignment="Left" Margin="533,305,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="151"/>
-        <TextBox HorizontalAlignment="Left" Margin="265,209,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Height="62" Width="80"/>
-        <TextBox HorizontalAlignment="Center" Margin="0,209,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Height="62" Width="80"/>
-        <TextBox x:ConnectionId='4' x:Name="window_for_tests" HorizontalAlignment="Left" Margin="711,180,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Height="344" Width="277"/>
+        <Button x:ConnectionId='2' Content="Изменить Валюту&#xD;&#xA;" Margin="9,315,0,0" VerticalAlignment="Top"                     />
+        <Button x:ConnectionId='3' Content="Изменить Валюту&#xA;" Margin="233,329,0,0" VerticalAlignment="Top"                       />
+        <TextBox HorizontalAlignment="Left" Margin="13,209,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="151"/>
+        <TextBox HorizontalAlignment="Left" Margin="243,170,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="151"/>
+        <TextBox HorizontalAlignment="Left" Margin="49,63,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Height="62" Width="80"/>
+        <TextBox HorizontalAlignment="Left" Margin="243,63,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Height="62" Width="80"/>
+        <TextBox x:ConnectionId='4' x:Name="window_for_tests" HorizontalAlignment="Left" Margin="497,94,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Height="690" Width="779"/>
+        <Button Content="Button" Margin="129,536,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Page>
