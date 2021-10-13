@@ -1,0 +1,1 @@
+C:\Users\stepa\repos\ProductivityInsideTest\attempt000\currencyRates\currencyRates.csproj;x86
